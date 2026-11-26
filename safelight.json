@@ -1,7 +1,7 @@
 {
   "id": "high-pass-sharpen",
   "name": "High Pass Sharpen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sharpening the way a photo editor's High Pass layer does it: the photo minus a fine Gaussian blur of itself, blended back over the photo in Linear Light (or Overlay, Soft Light, Hard Light) at the amount you set. A radius of half a pixel or less brings out the finest detail.",
   "author": "Anthony Reimche",
   "main": "dist/index.js",

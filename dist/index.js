@@ -237,6 +237,7 @@ function R(e) {
 			direction: "right",
 			width: 280
 		},
+		modules: ["develop"],
 		onReset: L,
 		mask: {
 			component: P,

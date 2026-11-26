@@ -1,7 +1,7 @@
 {
   "name": "safelight-high-pass-sharpen",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "High Pass Sharpen extension for Safelight: a High Pass layer blended in Linear Light.",
   "type": "module",
   "scripts": {

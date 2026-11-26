@@ -30,6 +30,7 @@ export function activate(host: SafelightAPI): void {
     title: "High Pass Sharpen",
     component: HighPassPanel,
     defaultDock: { module: "develop", direction: "right", width: 280 },
+    modules: ["develop"],
     onReset: reset,
     mask: { component: HighPassPanel, owns: [...EDIT_KEYS, DRAWS_KEY].map(qualified) },
   });
